@@ -1,1 +1,1 @@
-ECHO is on.
+This is a Data analysis operation carried on differnt traffic patterns gotten from different frequencies. The goal is to be able to classify a traffic from a channel as either Periodic or stochastic. This was done as part of a larger project on DSA, so with the help of traffic classification, users of frequencies can know how long they need to spend on that frequency depending if it is stochastic or periodic.
